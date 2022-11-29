@@ -17,7 +17,7 @@ hooks:
     - location: scripts/stop.sh
       timout: 60
       runas: ubuntu
-  ApplicationsStart:
+  ApplicationStart:
     - location: scripts/start.sh
       timout: 60
       runas: ubuntu
