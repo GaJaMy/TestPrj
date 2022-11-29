@@ -19,6 +19,7 @@ public class TestController {
 		}
 		System.out.println("git Actions Test");
 		System.out.println("git Actions Test");
+		System.out.println("git Actions Test");
 		return "<h1>aws v1</h1>";
 	}
 }
