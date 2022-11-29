@@ -17,7 +17,7 @@ public class TestController {
 		} else {
 			log.debug("호출 3 debug########################");
 		}
-
+		System.out.println("git Actions Test");
 		return "<h1>aws v1</h1>";
 	}
 }
